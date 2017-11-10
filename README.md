@@ -22,3 +22,13 @@ A repository to store the resolume configuration files and instructions for driv
 1. Connect to Enttech.
 2. Set static IP on computer
 3. disable Wifi.
+4. open COLORpallete_Array.avc
+5. Adjust the Brightness of the fixtures so that they are uniform.
+
+## Tips
+to see how a pattern looks on the colorpallets, open advanced mapping window. Pallet sections illuminate when average area is activated.
+
+## Adding Additional Colorpalletes to setup
+For each colorpallete fixture there should be 8 total fixtures created in the advanced mapping.
+1x - Chauvet Colorpallete01 ch 1-ch6
+7x - Chauvet Colorpallete02 ch 7,8,9 ch 10,11,12 ... ch 25,26,27
