@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Fixture name="Fixture" uuid="e3c916fee1724ad68230511e98cf7037" fixtureName="Chauvet Colorpallete02">
+	<Params name="Params">
+		<ParamFixturePixels storage="0" name="Pixels">
+			<ParamRange name="Width" default="1" value="1">
+				<ValueRange name="defaultRange" min="1" max="512"/>
+			</ParamRange>
+			<ParamRange name="Height" default="1" value="1">
+				<ValueRange name="defaultRange" min="1" max="512"/>
+			</ParamRange>
+			<ParamChoice name="Color Space" default="1" value="1" storeChoices="0"/>
+			<ParamChoice name="Distribution" default="170" value="170" storeChoices="0"/>
+			<ParamRange name="Gamma" default="2.5" value="2.5">
+				<ValueRange name="defaultRange" min="1" max="3"/>
+			</ParamRange>
+		</ParamFixturePixels>
+	</Params>
+</Fixture>
+
